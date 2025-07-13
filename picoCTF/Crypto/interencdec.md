@@ -1,8 +1,7 @@
 # PicoCTF - [Crypto] interendec 
 ## Deskripsi Tantangan
 - **Kategori**: Cryptography
-- **Poin**: Tidak disebutkan
-- **Platform**: PicoCTF 2024
+- **Platform**: PicoCTF 
 - **Deskripsi**: Diberikan file yang berisi kode terenkripsi.
 
 ## Langkah Penyelesaian
