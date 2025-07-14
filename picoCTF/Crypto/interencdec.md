@@ -12,9 +12,9 @@
 4. **Analisis Lebih Lanjut**: Teks yang dihasilkan kemungkinan besar merupakan hasil dari Caesar Cipher berdasarkan pola dan struktur yang terlihat.
 5. **Brute-Force Caesar Cipher**: Menggunakan alat seperti dCode Caesar Cipher Tool untuk melakukan brute-force dan menemukan kombinasi yang menghasilkan flag yang valid.
 
-## Alat yang Digunakan
-- Alat: [CyberChef](https://cyberchef.io/) (untuk dekode base64) 
-- Alat: [dCode Caesar Cipher Tool](https://www.dcode.fr/caesar-cipher) (untuk brute-force Caesar Cipher) 
+## Tools yang Digunakan
+- [CyberChef](https://cyberchef.io/) (untuk dekode base64) 
+- [dCode Caesar Cipher Tool](https://www.dcode.fr/caesar-cipher) (untuk brute-force Caesar Cipher) 
 
 ## Flag
 `picoCTF{caesar_d3cr9pt3d_86de32d2}`
