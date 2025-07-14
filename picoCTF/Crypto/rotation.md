@@ -6,7 +6,7 @@
 
 ## Langkah Penyelesaian
 1. File terenkripsi berisi teks: `xqkwKBN{z0bib1wv_l3kzgxb3l_25l7k61j}` Jika dilihat dari formatnya, ini adalah Caesar Cipher. 
-2. Dekripsi menggunakan tool online dcode.fr/caesar-cipher, dan memilih opsi bruteforce decrypt
+2. Dekripsi menggunakan tool online [dcode.fr/caesar-cipher](https://www.dcode.fr/caesar-cipher), dan memilih opsi bruteforce decrypt
 3. Hasilnya menunjukkan flag yang valid pada offset 8 (+18)
 
 
